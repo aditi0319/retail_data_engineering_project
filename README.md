@@ -6,7 +6,7 @@ This project delves into the world of retail data analytics using modern data en
 ## Architecture
 ![Retail drawio](https://github.com/user-attachments/assets/927e326b-50cb-4f17-85ed-b14806e0f4d1)
 
-#Technology Used
+####Technology Used
 Programming Language: Python
 Database: MySQL
 Data Visualization: Power BI

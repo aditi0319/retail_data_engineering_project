@@ -19,10 +19,10 @@ https://www.kaggle.com/datasets/sudhanshu1st/retail-store-orders-dataset
 
 ##Scripts for Project
 
-###Extract Data
+##Extract Data
 The data is extracted using the Kaggle API. The script connects to Kaggle, downloads the dataset, and saves it locally.
 
-###Load Data
+##Load Data
 The cleaned and transformed data is loaded into a MySQL database for further analysis.
 
 Script: Mysqlscript.sql
